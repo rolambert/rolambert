@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... lambert.r@gmail.com
 - ⚡ Fun fact: ... zebra flamingos dont exist, but they should. 
 
+![](img.svg)
