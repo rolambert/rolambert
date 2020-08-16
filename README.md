@@ -3,7 +3,7 @@
 -->
 > Hello world
 
-- 🔭 I’m currently working on: AI, 
+- 🔭 I’m currently working on: AI, C++
 
 - 🌱 I’m currently learning: [number theory](https://en.wikipedia.org/wiki/Number_theory)
 
