@@ -1,9 +1,6 @@
 <!--
 **rolambert/rolambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Sure, here’s a draft for your GitHub README.md that highlights your expertise in Python and C# as a software engineer:
-
----
 
 # Welcome to My GitHub Profile
 
@@ -53,6 +50,3 @@ Feel free to explore my repositories and projects. If you have any questions, su
 
 Thank you for visiting my GitHub profile!
 
----
-
-Feel free to customize the links and contact details to fit your information. This README.md should give a clear and concise overview of your skills and projects to anyone visiting your GitHub profile.
