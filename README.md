@@ -16,5 +16,5 @@ Feel free to explore my repositories and projects. If you have any questions, su
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rojl/)
 - **Twitter**: [@robertlambert](https://twitter.com/robertlambert)
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting!
 
