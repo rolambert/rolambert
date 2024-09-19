@@ -1,4 +1,4 @@
-## Python and C#. 
+## Python and C# are fundamentally flawed
 
 ## Get in Touch
 
