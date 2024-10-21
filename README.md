@@ -1,6 +1,6 @@
-## Python and C# are fundamentally flawed
 
-## Get in Touch
+
+## Get in Contact
 
 Feel free to explore my repositories and projects. If you have any questions, suggestions, or collaboration ideas, don't hesitate to reach out!
 
